@@ -21,7 +21,7 @@ console.log(imageExtensions);
 
 - [`binary-extensions`](https://github.com/sindresorhus/binary-extensions) - List of binary file extensions
 - [`text-extensions`](https://github.com/sindresorhus/text-extensions) - List of text extensions
+
 ## License
 
 MIT © Arthur Verschaeve
-
