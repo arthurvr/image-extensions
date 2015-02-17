@@ -1,6 +1,6 @@
-# image-extensions
+# image-extensions [![Build Status](https://travis-ci.org/arthurvr/image-extensions.svg?branch=master)](https://travis-ci.org/arthurvr/image-extensions)
 
-> A list of extensions used to represent images.
+> A list of extensions used to represent images. 
 
 Containing both bitmap and vector formats. The list is just a JSON file so can be used wherever.
 
