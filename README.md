@@ -19,6 +19,7 @@ console.log(imageExtensions);
 
 ## Related
 
+- [`is-image`](https://github.com/sindresorhus/is-image) - Check if a filepath is an image
 - [`binary-extensions`](https://github.com/sindresorhus/binary-extensions) - List of binary file extensions
 - [`text-extensions`](https://github.com/sindresorhus/text-extensions) - List of text extensions
 
