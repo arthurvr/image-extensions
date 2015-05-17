@@ -7,10 +7,10 @@ Containing both bitmap and vector formats. The list is just a JSON file so can b
 ## Install
 
 ```
-$ npm i image-extensions --save
+$ npm install --save image-extensions
 ```
 
-```javascript
+```js
 var imageExtensions = require('image-extensions');
 
 console.log(imageExtensions);
