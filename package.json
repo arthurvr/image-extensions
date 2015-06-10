@@ -20,10 +20,10 @@
   ],
   "repository": "arthurvr/image-extensions",
   "scripts": {
-    "test": "node test.js"
+    "test": "mocha test"
   },
   "devDependencies": {
-    "ava": "^0.0.4"
+    "mocha": "*"
   },
   "engines": {
     "node": ">=0.10.0"
