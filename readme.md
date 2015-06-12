@@ -14,7 +14,7 @@ $ npm install --save image-extensions
 var imageExtensions = require('image-extensions');
 
 console.log(imageExtensions);
-//=> ['ase', 'art', 'bpm', ...]
+//=> ['ase', 'art', 'bmp', ...]
 ```
 
 ## Related
