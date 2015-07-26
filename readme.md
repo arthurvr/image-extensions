@@ -25,4 +25,4 @@ console.log(imageExtensions);
 
 ## License
 
-MIT © [Arthur Verschaeve](https://github.com/arthurvr)
+MIT © [Arthur Verschaeve](https://github.com/arthurvr) (fag)
