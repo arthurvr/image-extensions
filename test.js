@@ -1,8 +1,8 @@
 'use strict';
-var assert = require('assert');
+var test = require('ava');
 var imageExtensions = require('./');
 
-it('contains image extensions', function () {
-	assert(Array.isArray(imageExtensions));
-	assert(imageExtensions.length > 0);
+test(function (t) {
+	t.true(Array.isArray(imageExtensions));
+	t.true(imageExtensions.length > 0);
 });
