@@ -20,7 +20,7 @@
   ],
   "repository": "arthurvr/image-extensions",
   "scripts": {
-    "test": "xo && node test.js"
+    "test": "xo && ava"
   },
   "devDependencies": {
     "ava": "*",

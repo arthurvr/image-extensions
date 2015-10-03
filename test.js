@@ -1,8 +1,7 @@
-'use strict';
-var test = require('ava');
-var imageExtensions = require('./');
+import test from 'ava';
+import imageExtensions from './';
 
-test(function (t) {
+test(t => {
 	t.true(Array.isArray(imageExtensions));
 	t.true(imageExtensions.length > 0);
 
