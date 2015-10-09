@@ -4,6 +4,7 @@
 
 Containing both bitmap and vector formats. The list is just a JSON file so can be used wherever.
 
+
 ## Install
 
 ```
@@ -17,11 +18,13 @@ console.log(imageExtensions);
 //=> ['ase', 'art', 'bmp', ...]
 ```
 
+
 ## Related
 
 - [`is-image`](https://github.com/sindresorhus/is-image) - Check if a filepath is an image
 - [`binary-extensions`](https://github.com/sindresorhus/binary-extensions) - List of binary file extensions
 - [`text-extensions`](https://github.com/sindresorhus/text-extensions) - List of text extensions
+
 
 ## License
 
