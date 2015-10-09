@@ -11,7 +11,7 @@ $ npm install --save image-extensions
 ```
 
 ```js
-var imageExtensions = require('image-extensions');
+const imageExtensions = require('image-extensions');
 
 console.log(imageExtensions);
 //=> ['ase', 'art', 'bmp', ...]
