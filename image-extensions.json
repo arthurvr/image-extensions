@@ -119,5 +119,7 @@
 	"sid",
 	"ras",
 	"sun",
-	"tga"
+	"tga",
+	"heic",
+	"heif"
 ]
